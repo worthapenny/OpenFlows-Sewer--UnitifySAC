@@ -37,7 +37,7 @@ Once the application is placed along with the main Bentley StormSewer applicatio
 
 ## 🗩 Comments, Questions, Issues, Suggestions, ...
 
-Please create and issue in the GitHub or drop me an email. Thank you!
+Please [create and issue](https://github.com/worthapenny/OpenFlows-Sewer--UnitifySAC/issues) in the GitHub or drop me an email. Thank you!
 
 ## 🙏 Thank you
 
