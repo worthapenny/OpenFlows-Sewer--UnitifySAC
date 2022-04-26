@@ -27,7 +27,7 @@ On a high level:
 
 Once the application is placed along with the main Bentley StormSewer application in the **x64** directory, double click the **OFS.UnitifySAC** to launch the application. A window like below should show.
 
-![MainApplicationWindow](Images\MainAppWindow.png)
+![Main Application Window](https://github.com/worthapenny/OpenFlows-Sewer--UnitifySAC/blob/main/Images/MainAppWindow.png "Main Application Window")
 
 1. Click on folder icon 📁 to select a StormSewer file for the clean-up. Once selected, model will open internally. A dialog-box will be displayed when open process is completed.
 2. Click on **Unitify SAC** icon to initiate the clean-up process
