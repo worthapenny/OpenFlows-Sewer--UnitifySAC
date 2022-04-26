@@ -5,7 +5,7 @@ Delete **"non-active"** scenarios, alternatives, and calc options to reduce the 
 ## ⬇️ Download
 
 Please read setup, please 🙏.
-> StormSewer 10.3.4.x.
+> [StormSewer 10.3.4.x](https://github.com/worthapenny/OpenFlows-Sewer--UnitifySAC/releases/download/v10.3.4.0/OFS.UnitifySAC_10.3.4.00.7z)
 
 ## ⚙️Setup
 
@@ -42,7 +42,7 @@ Please create and issue in the GitHub or drop me an email. Thank you!
 ## 🙏 Thank you
 
 * **Danielle Orgill** and **Brett O'Hair**: For inspiring me about the tool
-* **Kris Culin**: As always for the great support and help.
+* **Kris Culin**: As always for the great help and support.
 
 ## 📜   Major update history
 
